@@ -1,1 +1,1 @@
-python simple_subset.py
+python create_subset.py
